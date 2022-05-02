@@ -1,0 +1,6 @@
+# Updated 5/2/22 12:09 AM by Minecraft 1.5.2
+# victim name | ban date | banned by | banned until | reason
+
+EaglerYee26|2022-03-24 13:58:13 +0000|(Unknown)|Forever|killing people
+ate___e|2022-03-25 18:04:39 +0000|(Unknown)|Forever|Banned by an operator.
+ate|2022-03-25 18:05:40 +0000|(Unknown)|Forever|Banned by an operator.
